@@ -154,8 +154,6 @@ Final submission: retrain on 100 % training data.
 
 ### A. Code Artefacts
 
-Complete codebase (notebooks, scripts, processed data): [Google Drive link](https://drive.google.com/your-code-link-here)
-
 Directory layout:
 
 ```
